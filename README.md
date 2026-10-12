@@ -1,6 +1,6 @@
 ![CI](https://github.com/litmuschaos/spinnaker-preconfigured-job-plugin/workflows/CI/badge.svg)
-![Latest Kork](https://github.com/spinnaker-plugin-examples/preconfiguredJob/workflows/Latest%20Kork/badge.svg?branch=master)
-![Latest Orca](https://github.com/spinnaker-plugin-examples/preconfiguredJob/workflows/Latest%20Orca/badge.svg?branch=master)
+![Latest Kork](https://github.com/litmuschaos/spinnaker-preconfigured-job-plugin/workflows/Latest%20Kork/badge.svg?branch=master)
+![Latest Orca](https://github.com/litmuschaos/spinnaker-preconfigured-job-plugin/workflows/Latest%20Orca/badge.svg?branch=master)
 
 This plugin demonstrates how to setup a preconfigured litmuschaos experiment job on Kubernetes.
 
